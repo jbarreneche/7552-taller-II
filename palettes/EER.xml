@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="11.0">
+	<zoom_level>8</zoom_level>
+
+	<element>
+	    <id>-1</id>
+		<type>com.umlet.element.custom.EER_Entity</type>
+		<coordinates>
+			<x>50</x>
+			<y>40</y>
+			<w>100</w>
+			<h>30</h>
+		</coordinates>
+		<panel_attributes>Entidad</panel_attributes>
+		<additional_attributes />
+	</element>
+
+ 
+
+	<element>
+		<type>com.umlet.element.RelationEntity</type>
+		<coordinates>
+			<x>30</x>
+			<y>180</y>
+			<w>152</w>
+			<h>56</h>
+		</coordinates>
+		<panel_attributes>rol
+m1=(0,n)</panel_attributes>
+		<additional_attributes>24;40;136;40</additional_attributes>
+	</element>
+
+	<element>
+		<type>com.umlet.element.Identifiers</type>
+		<coordinates>
+			<x>30</x>
+			<y>220</y>
+			<w>150</w>
+			<h>50</h>
+		</coordinates>
+		<panel_attributes></panel_attributes>
+		<additional_attributes>130;30;30;30</additional_attributes>
+	</element>
+
+	<element>
+	     <id>-1</id>
+		<type>com.umlet.element.custom.EER_Rel_Diamond</type>
+		<coordinates>
+			<x>50</x>
+			<y>264</y>
+			<w>80</w>
+			<h>40</h>
+		</coordinates>
+		<panel_attributes>Relación</panel_attributes>
+		<additional_attributes />
+	</element>
+
+   	<element>
+		<type>com.umlet.element.Attribute</type>
+		<coordinates>
+			<x>30</x>
+			<y>160</y>
+			<w>100</w>
+			<h>50</h>
+		</coordinates>
+		<panel_attributes>Atributo</panel_attributes>
+		<additional_attributes>80;30;40;30</additional_attributes>
+	</element>
+
+	<element>
+		<type>com.umlet.element.AttributePK</type>
+		<coordinates>
+			<x>30</x>
+			<y>140</y>
+			<w>100</w>
+			<h>50</h>
+		</coordinates>
+		<panel_attributes>Atributo PK
+		</panel_attributes>
+		<additional_attributes>80;30;40;30</additional_attributes>
+	</element>
+	<element>
+	   <id>-1</id>
+		<type>com.umlet.element.Specialization</type>
+		<coordinates>
+			<x>30</x>
+			<y>300</y>
+			<w>200</w>
+			<h>150</h>
+		</coordinates>
+		<panel_attributes>(P,E)
+		</panel_attributes>
+		<additional_attributes>160;30;30;30</additional_attributes>
+	</element>
+<!-- 	<element> -->
+<!-- 		<type>com.umlet.element.Relation</type> -->
+<!-- 		<coordinates> -->
+<!-- 			<x>30</x> -->
+<!-- 			<y>330</y> -->
+<!-- 			<w>200</w> -->
+<!-- 			<h>150</h> -->
+<!-- 		</coordinates> -->
+<!-- 		<panel_attributes/> -->
+<!-- 		<additional_attributes>160;60;160;30;30;30;30;60</additional_attributes> -->
+<!-- 	</element> -->
+   <element>
+    <type>com.umlet.element.UseCase</type>
+    <coordinates>
+     <x>20</x>
+	 <y>100</y>
+	 <w>96</w>
+     <h>32</h>
+    </coordinates>
+    <panel_attributes>Atributo Comp
+    </panel_attributes>
+   <additional_attributes/>
+  </element>
+  <element>
+    <type>com.umlet.element.Relation</type>
+    <coordinates>
+      <x>80</x>
+      <y>85</y>
+      <w>40</w>
+      <h>56</h>
+    </coordinates>
+    <panel_attributes></panel_attributes>
+  <additional_attributes>80;30;40;30</additional_attributes>
+  </element>
+	
+	
+</diagram>

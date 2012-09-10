@@ -1,0 +1,8 @@
+<ProjectEntity>
+  <name>Servicios</name>
+  <parentDir>/home/Santiago/_proyectoTaller2/Servicios/Datos</parentDir>
+  <nameComponent>Servicios_comp.xml</nameComponent>
+  <listDiagrams>
+    <string>/home/Santiago/_proyectoTaller2/Servicios/Datos/Servicio_rep.xml</string>
+  </listDiagrams>
+</ProjectEntity>
